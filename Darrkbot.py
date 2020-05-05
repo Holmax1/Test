@@ -2984,34 +2984,33 @@ async def embed(ctx, *args):
 
 client.run(os.getenv('Token'))
 
-© 2020 G
 
-Terms
 
-Privacy
 
-Security
 
-StatuHel
 
-Contact GitHub
 
-Pricing
 
-API
 
-Training
 
-Blog
 
-About
 
-Pricing
 
-API
 
-Training
 
-Blog
 
-A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
