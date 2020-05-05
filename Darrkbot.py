@@ -2982,7 +2982,7 @@ async def embed(ctx, *args):
 
     await client.delete_message(ctx.message)
 
-client.run(os.getenv('NzA2ODk4OTE5MDgyMTY0MzA1.XrA9-A.4utVwWpkH-jSkCTfNctUj_YuaeU'))
+client.run(os.getenv('Token'))
 
 © 2020 G
 
@@ -3014,4 +3014,4 @@ Training
 
 Blog
 
-About
+A
